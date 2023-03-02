@@ -9,9 +9,13 @@
     <p>Com isso, a Documentum decidiu iniciar um projeto de automação de gerenciamento de documentos, visando otimizar seus processos internos e oferecer uma solução mais eficiente e ágil para seus clientes.</p>
     <p>Após uma  avaliação no mercado, levantamento de informações e análise de portfólios, a Documentum selecionou algumas empresas e solicitou um orçamento para o desenvolvimento do novo sistema.</p>
     <ul>
-        <li><a href="/Orçamentos/Orçamento_Documatec.html">Orçamentos</a></li>
-        <li><a href="/Orçamentos/Orçamento_PaperlessSolutions.html">Orçamentos</a></li>
-        <li><a href="/Orçamentos/Orçamento_Techwise">Orçamentos</a></li>
+        <li><a href="/Orçamentos/Orçamento_Documatec.html">Orçamento Documatec</a></li>
+        <li><a href="/Orçamentos/Orçamento_PaperlessSolutions.html">Orçamento Paperless Solutions</a></li>
+        <li><a href="/Orçamentos/Orçamento_Techwise">Orçamentos Techwise</a></li>
+        <h6>Orçamentos desenvolvidos com 
+            <img align="center" alt="Tay-Bootstrap" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+            <img align="center" alt="Tay-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        </h6>
     </ul>
 </div>
 
