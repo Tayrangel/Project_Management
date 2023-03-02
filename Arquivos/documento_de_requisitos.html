@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Tayhana Rangel">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Documento de Requisitos" />
+    <title>Documento de Requisitos</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <div class="pt-3 text-center text-white bg-warning">
+        <h4>Documento de Requisitos</h4>
+        <p class="pe-2 lead fs-6 text-end text-body-tertiary">Código do documento: REQ-2022-DOC-002</p>
+    </div>
+
+    <div class="p-2 mb-2 container">
+        <h3>Projeto DocManage</h3>
+        <p class="me-4 badge bg-dark-subtle text-wrap">Data de início do projeto: 15 de abril de 2022</p>
+        <p class="me-4 badge bg-dark-subtle text-wrap">Número do contrato: 2022/DOC/001</p>
+        <p class="me-4 badge bg-dark-subtle text-wrap">Código do projeto: PROJ-DOC-2022-01</p>
+        <p class="me-4 badge bg-dark-subtle text-wrap">Código do documento: REQ-2022-DOC-002</p>
+    </div>
+
+    <div class="container me-5 mb-5">
+        <div class="row">
+            <div class="col-7 lh-base">
+                <h5 class=" ms-3 mb-3 mt-3">Introdução</h5>
+                <p class="ms-5 mt-3">Este documento descreve os requisitos do Sistema de Gerenciamento de Documentos
+                    Digitais a ser desenvolvido pela equipe da Techwise. O sistema tem como objetivo principal gerenciar
+                    documentos de forma eletrônica, permitindo sua criação, armazenamento, compartilhamento, busca e
+                    recuperação. O sistema será composto por um banco de dados PostgreSQL, um backend Django e um
+                    frontend React.</p>
+            </div>
+            <div class="col-5">
+                <img src="src/imagens/pessoadocumento.jpg" alt="Pessoa no arquivo" style="width: 200px; height: 250px;">
+            </div>
+        </div>
+    </div>
+
+ 
+    <div class="container mb-3">
+        <ul class="list-group">
+            <li class="list-group-item bg-warning text-white">
+                <h5>Requisitos Funcionais</h5>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Cadastro de Usuários</p>
+                <p>O sistema deve permitir o cadastro de usuários com os seguintes campos: nome, e-mail,
+                    senha e perfil de acesso (administrador ou usuário comum).</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Login de Usuários</p>
+                <p>O sistema deve permitir o login de usuários cadastrados através de e-mail e senha.</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Criação de Documentos</p>
+                <p>O sistema deve permitir a criação de documentos com os seguintes campos: título, descrição,
+                    categoria, data de criação e upload de arquivo.</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Armazenamento de Documentos</p>
+                <p>O sistema deve armazenar os documentos criados pelos usuários em um banco de dados PostgreSQL.
+                </p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Compartilhamento de Documentos</p>
+                <p>O sistema deve permitir que usuários com permissão possam compartilhar documentos com outros
+                    usuários do sistema.</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Busca e Recuperação de Documentos</p>
+                <p>O sistema deve permitir a busca e recuperação de documentos através de filtros como título,
+                    categoria, data de criação e descrição.</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Controle de Versão de Documentos</p>
+                <p>O sistema deve permitir o controle de versão dos documentos criados, mantendo um histórico das
+                    alterações realizadas.</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Autenticação e Autorização</p>
+                <p>O sistema deve possuir um sistema de autenticação e autorização para garantir a segurança dos
+                    documentos e das informações dos usuários.</p>
+            </li>
+        </ul>
+    </div>
+
+    <div class="container mb-3">
+        <ul class="list-group">
+            <li class="list-group-item bg-warning text-white">
+                <h5>Requisitos Não Funcionais</h5>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Performance</p>
+                <p>O sistema deve ser capaz de suportar um grande volume de documentos e usuários simultâneos, sem
+                    comprometer a performance.</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Usabilidade</p>
+                <p>O sistema deve possuir uma interface amigável e de fácil uso para todos os usuários, mesmo
+                    aqueles sem conhecimento técnico.</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Segurança</p>
+                <p>O sistema deve ser seguro, garantindo a proteção dos documentos e informações dos usuários, além
+                    de evitar acessos não autorizados.</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Disponibilidade</p>
+                <p>O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com exceção de manutenções
+                    programadas.
+                </p>
+            </li>
+        </ul>
+    </div>
+
+    <div class="container mb-3">
+        <ul class="list-group">
+            <li class="list-group-item bg-warning text-white">
+                <h5>Requisitos de Integração</h5>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Controle de versão</p>
+                <p>O sistema deve utilizar o Git e o GitHub para controle de versão do código fonte do projeto.</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Banco de Dados</p>
+                <p>O sistema deve utilizar o PostgreSQL como banco de dados.</p>
+            </li>
+            <li class="list-group-item">
+                <p class="fw-semibold">Backend e Frontend</p>
+                <p>O sistema deve utilizar o Django como backend e o React como frontend.</p>
+            </li>
+        </ul>
+    </div>
+
+    <hr class="border border-warning border-1 opacity-75">
+
+    <div class="text-center fs-6 lead">
+        <strong>Techwise</strong>
+        <address>
+            1355 Market St, Suite 900
+            San Francisco, CA 94103<br>
+            P: (123) 456-7890 <br>
+            documatec.project@example.com
+        </address>
+    </div>
+
+</body>
+
+</html>
