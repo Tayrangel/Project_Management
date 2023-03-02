@@ -13,8 +13,8 @@
         <li><a href="/Orçamentos/Orçamento_PaperlessSolutions.html">Orçamento Paperless Solutions</a></li>
         <li><a href="/Orçamentos/Orçamento_Techwise">Orçamentos Techwise</a></li>
         <h6>Orçamentos desenvolvidos com 
-            <img align="center" alt="Tay-Bootstrap" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-            <img align="center" alt="Tay-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+            <img align="center" alt="Tay-Bootstrap" height="15" width="50" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+            <img align="center" alt="Tay-HTML" height="15" width="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         </h6>
     </ul>
 </div>
@@ -27,8 +27,10 @@
 
 <div>
     <h3 align="center">PROJETO DE IMPLEMENTAÇÃO DE SISTEMA DE GERENCIAMENTO DE DOCUMENTOS ELETRÔNICOS</h3>
+    <h4 align="center">DocManage</h4>
     <hr>
     <h3>Fase de iniciação</h3>
     <p>Nesta fase que são definidos os objetivos do projeto, as restrições e os recursos necessários, e são tomadas as decisões iniciais sobre a abordagem, a equipe e o plano de trabalho. Assim, durante a fase de iniciação, serão elaborados documentos para a validação do cliente.</p>
     <p>Uma vez que a fase de iniciação esteja concluída, o projeto passa para a fase de planejamento, onde ocorre a definição mais detalhada do escopo, o desenvolvimento do plano de gerenciamento do projeto e a elaboração de cronogramas e orçamentos mais precisos.</p>
+    
 </div>
