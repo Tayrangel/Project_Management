@@ -22,10 +22,9 @@
 </div>
 
 <div>
-    <h3>PROJETO DE IMPLEMENTAÇÃO DE SISTEMA DE GERENCIAMENTO DE DOCUMENTOS ELETRÔNICOS</h3>
+    <h3 align="center">PROJETO DE IMPLEMENTAÇÃO DE SISTEMA DE GERENCIAMENTO DE DOCUMENTOS ELETRÔNICOS</h3>
     <hr>
     <h3>Fase de iniciação</h3>
     <p>Nesta fase que são definidos os objetivos do projeto, as restrições e os recursos necessários, e são tomadas as decisões iniciais sobre a abordagem, a equipe e o plano de trabalho. Assim, durante a fase de iniciação, serão elaborados documentos para a validação do cliente.</p>
-    
     <p>Uma vez que a fase de iniciação esteja concluída, o projeto passa para a fase de planejamento, onde ocorre a definição mais detalhada do escopo, o desenvolvimento do plano de gerenciamento do projeto e a elaboração de cronogramas e orçamentos mais precisos.</p>
 </div>
