@@ -57,7 +57,12 @@
 <div>
     <h3>Fase de planeamento</h3>
     <p>A fase de planejamento de um projeto é uma etapa crucial para o sucesso do projeto de software. Nesta fase, a equipe de projeto realiza uma análise detalhada dos requisitos do cliente para garantir que as entregas estejam alinhadas às expectativas do cliente.</p>
-    <p>A fase de planejamento é uma etapa importante que ajuda a equipe a estabelecer uma visão clara do projeto, alinhar as expectativas do cliente e definir as atividades necessárias para completar o projeto. É importante lembrar que os documentos e artefatos vivos que podem ser atualizados e modificados à medida que o projeto progride.</p>
+    <p>Além disso, é uma etapa importante que ajuda a equipe a estabelecer uma visão clara do projeto, alinhar as expectativas do cliente e definir as atividades necessárias para completar o projeto. É importante lembrar que os documentos e artefatos vivos que podem ser atualizados e modificados à medida que o projeto progride.</p>
+    <p>Assim, para esse proeto, a equipe da Techwise desenvolveu um quadro kanban no ClickUp para auxiliar no gerenciamento das atividades. A gerente de projetos, Tayhana Rangel, liderou o processo de criação do quadro, que foi configurado de acordo com a metodologia Kanban escolhida para o projeto. Com essa ferramenta, a equipe conseguiu visualizar e organizar como será o fluxo das tarefas de forma mais clara, o que contribui com acompanhamento do andamento do projeto. O quadro kanban também permite que as atividades sejam priorizadas de acordo com as necessidades do projeto, garantindo uma melhor gestão do tempo e recursos.</p>
+    <div>
+        <h5>Kanban - ClickUp</h5>
+        <img align="center" alt="status clickup" height="600" width="800" src="/Arquivos/src/imagens/statusclickup.png">
+    </div>
     <blockquote>
     <p>19 de abril de 2022</p>
     <p>No dia seguinte, a equipe da Techwise estava pronta para iniciar o levantamento de requisitos, e a equipe da Documentum estava ansiosa para compartilhar seus desejos e necessidades para o novo sistema. A reunião foi produtiva e a equipe da Techwise conseguiu coletar todas as informações necessárias para iniciar o projeto.
