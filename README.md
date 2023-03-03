@@ -64,13 +64,15 @@
         <div>
             <h4>Kanban - ClickUp</h4>
             <img align="center" alt="status clickup" src="/Arquivos/src/imagens/statusclickup.png">
+            <br>
             <p>Após algumas horas de trabalho no projeto, a gerente de projetos percebeu que o quadro kanban criado anteriormente estava auxiliando bastante a equipe na execução das tarefas no âmbito operacional. Contudo, ela sentia que era necessário um maior controle e monitoramento do projeto como um todo, e que o quadro atual não era suficiente para atender a essa necessidade.</p>
             <p>Por isso, decidiu criar um novo quadro kanban, com o foco gerencial no escopo do projeto. Para isso, escolheu a técnica do Flight Levels Kanban, que permite uma visão mais ampla e detalhada do projeto, com diferentes níveis de gerenciamento.</p>
             <p>Com essa nova ferramenta, Tayhana esperava ter uma visão mais completa do projeto, permitindo uma tomada de decisão mais assertiva e rápida, além de uma melhor comunicação com a equipe e stakeholders. Com isso, ela acredita que o projeto terá um gerenciamento mais eficiente e eficaz, trazendo resultados ainda mais satisfatórios.</p>
             <br>
             <img align="center" alt="status clickup" src="/Arquivos/src/imagens/statusescopoclickup.png">
         </div>
-    <p><b>18 de abril de 2023<b></p>
+    <br>
+    <p><b>18 de abril de 2023</b></p>
     <p>No dia seguinte, a equipe da Techwise estava pronta para iniciar o levantamento de requisitos, e a equipe da Documentum estava ansiosa para compartilhar seus desejos e necessidades para o novo sistema. A reunião foi produtiva e a equipe da Techwise conseguiu coletar boa parte das informações necessárias para iniciar o projeto.
     <p>João Silva ficou impressionado com a eficiência da equipe da Techwise e sabia que escolheu a equipe certa para implementar o sistema. Ele estava confiante de que a parceria seria bem-sucedida e que o projeto seria entregue dentro do prazo e do orçamento.</p>
         <div>
@@ -79,6 +81,7 @@
             <br>
             <img align="center" alt="status clickup" src="/Arquivos/src/imagens/tasksnoclickup2.png">
         </div>
+    <br>
     <p><b>21 de abril de 2023</b></p>
     <p>Todos os dias, a equipe da Techwise realiza reuniões matinais chamadas Daily. Na última reunião, o analista de requisitos informou à equipe que o documento de requisitos está elaborado, mas que surgiram algumas dúvidas no processo. A gerente de projetos, Tayhana Fonseca, questionou sobre as dúvidas e perguntou ao analista se ele tinha interesse em uma reunião adicional com o cliente para esclarecê-las. O analista concordou com a reunião e informou que as dúvidas eram mais relacionadas ao refinamento dos requisitos.</p>
     <p>Diante disso, a gerente de projetos pediu ao analista para listar as dúvidas para que eles pudessem discutir com o cliente durante a reunião. A equipe decidiu agendar a reunião com o cliente no início da próxima da semana para que pudesse refinar melhor os requisitos e garantir que estivessem alinhados com as expectativas do cliente. A reunião foi marcada e a equipe ficou animada para discutir as dúvidas e refinamentos dos requisitos com o cliente.</p>
