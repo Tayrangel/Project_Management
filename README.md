@@ -134,6 +134,5 @@
     <p>A fase de execução é a terceira fase do ciclo de vida de um projeto de software, após as fases de planejamento e de análise e design. Durante esta fase, o trabalho planejado é executado, monitorado e controlado para garantir que o projeto esteja dentro do escopo, cronograma e orçamento definidos.</p>
     <blockquote> 
     <p><b>01 de maio de 2023</b></p>
-    
     </blockquote>
 </div>
