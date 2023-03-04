@@ -100,7 +100,7 @@
     <p>As principais questões discutidas foram relacionadas ao refinamento dos requisitos e especificações técnicas do projeto. A equipe da Documentum também forneceu sugestões e insights valiosos sobre o processo de desenvolvimento do projeto. A reunião foi concluída com um plano de ação claro para o analista de requisitos, incluindo a atualização do documento de requisitos com as informações discutidas.</p>
     <p>No geral, a reunião foi considerada bem-sucedida e contribuiu para o progresso do projeto, garantindo que as expectativas do cliente e os requisitos do projeto fossem atendidos de forma mais precisa.</p>
         <div>
-        <h2>As dúvidas discutidas:</h2>
+        <h5>As dúvidas discutidas:</h5>
         <ul>
             <li>Detalhes específicos sobre as informações que precisam ser armazenadas no banco de dados, como tipos de dados, formato e estrutura das tabelas.</li>
             <li>Mais informações sobre as interfaces de usuário, como a disposição dos elementos na tela, fluxo de navegação e recursos de usabilidade.</li>
@@ -132,5 +132,8 @@
 <div>
     <h4>Fase de execução</h4>
     <p>A fase de execução é a terceira fase do ciclo de vida de um projeto de software, após as fases de planejamento e de análise e design. Durante esta fase, o trabalho planejado é executado, monitorado e controlado para garantir que o projeto esteja dentro do escopo, cronograma e orçamento definidos.</p>
-
+    <blockquote> 
+    <p><b>01 de maio de 2023</b></p>
+    
+    </blockquote>
 </div>
