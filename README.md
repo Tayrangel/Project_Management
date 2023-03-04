@@ -43,7 +43,6 @@
     <p> No dia seguinte, a gerente de projetos Tayhana Rangel, da Techwise, disponibilizou o Termo de Abertura do Projeto TA-2022-DOC-001 e solicitou o aceite do João Silva, gerente de projetos responsável pelo projeto na Documentum. Caso fosse aprovado, Tayhana demonstrou interesse em marcar a primeira reunião de levantamento de requisitos naquela mesma semana. O Termo de Abertura foi enviado com o objetivo de formalizar o início do projeto e garantir o alinhamento entre as equipes de ambas as empresas.</p>
     <p>Era segunda-feira e João Silva, gerente de projetos da Documentum, recebeu um e-mail da Tayhana Fonseca, gerente de projetos da Techwise, com o tão esperado termo de abertura do projeto de implementação do sistema de gerenciamento de documentos eletrônicos. João estava ansioso para começar o projeto e assim que leu o e-mail, enviou uma resposta confirmando o aceite do termo de abertura e a disposição para dar início ao projeto.</p>
     <p>Tayhana Fonseca ficou feliz com a rápida resposta do João e imediatamente respondeu marcando a primeira reunião de levantamento de requisitos para a próxima quarta-feira. Ela estava animada para começar o projeto e trabalhar com a Documentum.</p>
-    </blockquote>
     <ul>
         <li><a href="/Arquivos/tap.html">Termo de Abertura do Projeto</a></li>
         <h6>O documento foi desenvolvidos com 
@@ -51,6 +50,7 @@
             <img align="center" alt="Tay-HTML" height="15" width="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         </h6>
     </ul>
+    </blockquote>
     <p>Uma vez que a fase de iniciação esteja concluída, o projeto passa para a fase de planejamento.</p>
 </div>
 
@@ -77,15 +77,16 @@
     <p>João Silva ficou impressionado com a eficiência da equipe da Techwise e sabia que escolheu a equipe certa para implementar o sistema. Ele estava confiante de que a parceria seria bem-sucedida e que o projeto seria entregue dentro do prazo e do orçamento.</p>
         <div>
             <h4>Kanban - ClickUp</h4>
+            <p>Visualização do Kanban Gerencial</p>
             <img align="center" alt="status clickup" src="/Arquivos/src/imagens/tasksnoclickup1.png">
             <br>
+            <p>Visualização das atividades do primeiro marco do projeto</p>
             <img align="center" alt="status clickup" src="/Arquivos/src/imagens/tasksnoclickup2.png">
         </div>
     <br>
     <p><b>21 de abril de 2023</b></p>
-    <p>Todos os dias, a equipe da Techwise realiza reuniões matinais chamadas Daily. Na última reunião, o analista de requisitos informou à equipe que o documento de requisitos está elaborado, mas que surgiram algumas dúvidas no processo. A gerente de projetos, Tayhana Fonseca, questionou sobre as dúvidas e perguntou ao analista se ele tinha interesse em uma reunião adicional com o cliente para esclarecê-las. O analista concordou com a reunião e informou que as dúvidas eram mais relacionadas ao refinamento dos requisitos.</p>
+    <p>Todos os dias, a equipe da Techwise realiza reuniões matinais chamadas Daily. Na última reunião, o analista de requisitos informou à equipe que o documento de requisitos está elaborado, mas que surgiram algumas dúvidas no processo. A gerente de projetos, Tayhana Rangel, questionou sobre as dúvidas e perguntou ao analista se ele tinha interesse em uma reunião adicional com o cliente para esclarecê-las. O analista concordou com a reunião e informou que as dúvidas eram mais relacionadas ao refinamento dos requisitos.</p>
     <p>Diante disso, a gerente de projetos pediu ao analista para listar as dúvidas para que eles pudessem discutir com o cliente durante a reunião. A equipe decidiu agendar a reunião com o cliente no início da próxima da semana para que pudesse refinar melhor os requisitos e garantir que estivessem alinhados com as expectativas do cliente. A reunião foi marcada e a equipe ficou animada para discutir as dúvidas e refinamentos dos requisitos com o cliente.</p>
-    </blockquote>
     <ul>
     <li><a href="/Arquivos/documento_de_requisitos.html">Documento de Requisitos</a></li>
         <h6>O documento foi desenvolvidos com 
@@ -94,6 +95,38 @@
         </h6>
     </ul>
     <br>
+    <p><b>25 de abril de 2023</b></p>
+    <p>A reunião entre a Documentum e Techwise para esclarecer as dúvidas do analista de requisitos foi produtiva. Na reunião, o analista apresentou as dúvidas e questões que surgiram durante o processo de elaboração do documento de requisitos. A equipe da Documentum forneceu respostas claras e detalhadas, esclarecendo as dúvidas do analista.</p>
+    <p>As principais questões discutidas foram relacionadas ao refinamento dos requisitos e especificações técnicas do projeto. A equipe da Documentum também forneceu sugestões e insights valiosos sobre o processo de desenvolvimento do projeto. A reunião foi concluída com um plano de ação claro para o analista de requisitos, incluindo a atualização do documento de requisitos com as informações discutidas.</p>
+    <p>No geral, a reunião foi considerada bem-sucedida e contribuiu para o progresso do projeto, garantindo que as expectativas do cliente e os requisitos do projeto fossem atendidos de forma mais precisa.</p>
+        <div>
+        <h2>As dúvidas discutidas:</h2>
+        <ul>
+            <li>Detalhes específicos sobre as informações que precisam ser armazenadas no banco de dados, como tipos de dados, formato e estrutura das tabelas.</li>
+            <li>Mais informações sobre as interfaces de usuário, como a disposição dos elementos na tela, fluxo de navegação e recursos de usabilidade.</li>
+            <li>Esclarecimentos sobre a lógica de negócios e fluxos de trabalho, como regras de negócios, condições e exceções.</li>
+            <li>Detalhes sobre os outros sistemas com os quais o novo sistema precisa se integrar, como a frequência e a forma de troca de informações entre eles.</li>
+            <li>Informações específicas sobre os requisitos de segurança, como autenticação, autorização e criptografia.</li>
+            <li>Detalhes sobre os testes e validações, como a metodologia e critérios de aceitação.</li>
+            <li>Informações sobre o treinamento e suporte técnico para os usuários após a implementação do sistema, como o formato, o conteúdo e a frequência.</li>
+        </ul>
+        </div>
+    <p><b>27 de abril de 2023</b></p>
+    <p>No dia 27 de abril de 2023, a equipe Techwise se reuniu para apresentar e discutir o documento de levantamento de requisitos do projeto de desenvolvimento do Sistema de Gerenciamento de Documentos Digitais. A reunião foi conduzida pela gerente de projetos, Tayhana, que iniciou a apresentação explicando o objetivo do sistema e os requisitos funcionais e não funcionais identificados.</p>
+    <p>Durante a apresentação, os membros da equipe Techwise tiveram a oportunidade de fazer perguntas e esclarecer dúvidas sobre os requisitos apresentados. Além disso, alguns pontos foram discutidos e refinados em conjunto, como a definição de uma política de segurança robusta e a melhor forma de implementar o controle de versão dos documentos.</p>
+    <p>Após a discussão do documento de requisitos, Tayhana apresentou o plano de projeto, que incluía as fases do desenvolvimento, os prazos e as entregas previstas. Cada membro da equipe foi responsável por apresentar as tarefas que seriam executadas durante o projeto e os prazos estipulados para cada uma delas.</p>
+    <p>Foi discutido também a definição dos papéis e responsabilidades de cada membro da equipe e as metodologias de desenvolvimento a serem adotadas. A equipe decidiu por utilizar a metodologia ágil, com fluxo de trabalho contínuo e reuniões diárias para acompanhamento do andamento do projeto.</p>
+    <p>Ao final da reunião, foi definido que a versão 1.1 do documento de requisitos seria enviada para validação e aprovação dos stakeholders, e a equipe Techwise aguardaria a confirmação para iniciar o desenvolvimento do sistema, seguindo o plano de projeto apresentado. A reunião foi realizada através de videoconferência, utilizando a plataforma Google Meet, e teve duração de duas horas.</p>
+    <p><b>28 de abril de 2023</b></p>
+    <p>A equipe da Techwise apresentou a versão 1.1 do documento de requisitos do DocManage para a equipe da Documentum. Durante a apresentação, a Documentum mostrou-se satisfeita com o documento, destacando sua clareza e abrangência, e autorizou o início do desenvolvimento do software. A Techwise agradeceu a Documentum pela confiança e reforçou seu compromisso em desenvolver um sistema de alta qualidade e que atenda às expectativas do cliente. Ambas as equipes ficaram animadas com o início do projeto e combinaram de manter uma comunicação aberta e constante para garantir o sucesso do desenvolvimento.</p>
+    <ul>
+    <li><a href="/Arquivos/documento_de_requisitos.html">Plano de trabalho</a></li>
+        <h6>O documento foi desenvolvidos com 
+            <img align="center" alt="Tay-Bootstrap" height="15" width="50" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+            <img align="center" alt="Tay-HTML" height="15" width="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        </h6>
+    </ul>
+    </blockquote>
 </div>
 
 <div>
