@@ -11,7 +11,7 @@
     <ul>
         <li><a href="/Arquivos/Orçamento_Documatec.html">Orçamento Documatec</a></li>
         <li><a href="/Arquivos/Orçamento_PaperlessSolutions.html">Orçamento Paperless Solutions</a></li>
-        <li><a href="/Arquivos/Orçamento_Techwise">Orçamentos Techwise</a></li>
+        <li><a href="https://github.com/Tayrangel/pm_automacao_processo_negocio/blob/main/Arquivos/Or%C3%A7amento_Techwise.html">Orçamentos Techwise</a></li>
         <h6>Orçamentos foram desenvolvidos com 
             <img align="center" alt="Tay-Bootstrap" height="15" width="50" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
             <img align="center" alt="Tay-HTML" height="15" width="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
