@@ -11,7 +11,7 @@
     <ul>
         <li><a href="/Arquivos/Orçamento_Documatec.html">Orçamento Documatec</a></li>
         <li><a href="/Arquivos/Orçamento_PaperlessSolutions.html">Orçamento Paperless Solutions</a></li>
-        <li><a href="https://github.com/Tayrangel/pm_automacao_processo_negocio/blob/main/Arquivos/Or%C3%A7amento_Techwise.html">Orçamentos Techwise</a></li>
+        <li><a href="/Arquivos/Orçamento_Techwise.html">Orçamentos Techwise</a></li>
         <h6>Orçamentos foram desenvolvidos com 
             <img align="center" alt="Tay-Bootstrap" height="15" width="50" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
             <img align="center" alt="Tay-HTML" height="15" width="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -79,7 +79,7 @@
             <h4>Kanban - ClickUp</h4>
             <p>Visualização do Kanban Gerencial</p>
             <img align="center" alt="status clickup" src="/Arquivos/src/imagens/tasksnoclickup1.png">
-            <br>
+            <p></p>
             <p>Visualização das atividades do primeiro marco do projeto</p>
             <img align="center" alt="status clickup" src="/Arquivos/src/imagens/tasksnoclickup2.png">
         </div>
@@ -131,8 +131,10 @@
 
 <div>
     <h4>Fase de execução</h4>
-    <p>A fase de execução é a terceira fase do ciclo de vida de um projeto de software, após as fases de planejamento e de análise e design. Durante esta fase, o trabalho planejado é executado, monitorado e controlado para garantir que o projeto esteja dentro do escopo, cronograma e orçamento definidos.</p>
+    <p>A fase de execução é a terceira fase do ciclo de vida de um projeto de software, após a fase de planejamento. Durante esta fase, o trabalho planejado é executado, monitorado e controlado para garantir que o projeto esteja dentro do escopo, cronograma e orçamento definidos.</p>
     <blockquote> 
     <p><b>01 de maio de 2023</b></p>
+    <p>Durante a fase de execução do projeto, a gerente de projetos Tayhana da Techwise iniciou o processo de criação de um sistema de Business Intelligence (BI) para obter informações de diversas fontes de dados. Esse sistema permitirá que ela monitore e controle o projeto de forma mais eficiente, além de possibilitar a criação de um status report mais interativo.</p>
+    <p>O sistema de BI desenvolvido segue</p>
     </blockquote>
 </div>
