@@ -135,6 +135,5 @@
     <blockquote> 
     <p><b>01 de maio de 2023</b></p>
     <p>Durante a fase de execução do projeto, a gerente de projetos Tayhana da Techwise iniciou o processo de criação de um sistema de Business Intelligence (BI) para obter informações de diversas fontes de dados. Esse sistema permitirá que ela monitore e controle o projeto de forma mais eficiente, além de possibilitar a criação de um status report mais interativo.</p>
-    <p>O sistema de BI desenvolvido segue</p>
     </blockquote>
 </div>
