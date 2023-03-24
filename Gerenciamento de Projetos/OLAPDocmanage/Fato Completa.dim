@@ -1,0 +1,226 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="0374b981-65c9-4c22-96cb-f960cadea0e2" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Fato Completa</ID>
+  <Name>Fato Completa</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="33a4c348-cff8-485e-b57e-07b234aba03f">
+    <DataSourceViewID>DW DOCMANAGE</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="14f1671a-55b5-4e2b-a1dd-1d1739ac8886">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="56a5f48c-9202-4196-93af-6847d67331b6">
+      <ID>ID Cliente</ID>
+      <Name>ID Cliente</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="1646db48-75b3-46b6-84c3-7b5eddbf7013">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="ecc0ef66-0c7e-4da7-9fe1-ced79648e2c6">
+            <TableID>Fato_x0020_Completa</TableID>
+            <ColumnID>id_cliente</ColumnID>
+          </Source>
+        </KeyColumn>
+        <KeyColumn dwd:design-time-name="2a2e5ae2-15a1-4008-9ad7-46b48c04d245">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a66955cb-7573-45d1-bd80-ba27a3700b65">
+            <TableID>Fato_x0020_Completa</TableID>
+            <ColumnID>id_gerenciamento</ColumnID>
+          </Source>
+        </KeyColumn>
+        <KeyColumn dwd:design-time-name="f97404a0-be87-4310-bfae-e90e41ef3dea">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="93eb5964-1258-407b-b2a5-5a6dedcd451a">
+            <TableID>Fato_x0020_Completa</TableID>
+            <ColumnID>id_projeto</ColumnID>
+          </Source>
+        </KeyColumn>
+        <KeyColumn dwd:design-time-name="e14cb673-ea6c-4e28-8a5c-6d5f85bc73c3">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="efb6efe0-40d5-4280-9af8-e9bde61ca15e">
+            <TableID>Fato_x0020_Completa</TableID>
+            <ColumnID>id_dia</ColumnID>
+          </Source>
+        </KeyColumn>
+        <KeyColumn dwd:design-time-name="bb876291-ca14-4d59-88df-dfcc04ff8e56">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="4d6f4c97-126b-4a28-b060-962492a96793">
+            <TableID>Fato_x0020_Completa</TableID>
+            <ColumnID>id_atividade</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <NameColumn dwd:design-time-name="00347913-bfda-40ce-b153-d3cc88b94d77">
+        <DataType>WChar</DataType>
+        <DataSize>50</DataSize>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="80b73b6c-43af-4c8b-b21c-20ed25d0f741">
+          <TableID>Fato_x0020_Completa</TableID>
+          <ColumnID>id_cliente</ColumnID>
+        </Source>
+      </NameColumn>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="b2013846-bfa0-4b99-87ca-75037f4c5f19">
+          <AttributeID>Fato Completa - ID Cliente</AttributeID>
+          <Name>Fato Completa - ID Cliente</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="c7dc1ddd-4cbc-483b-a22b-31148a93f642">
+          <AttributeID>ID Atividade</AttributeID>
+          <Name>ID Atividade</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="23355c0d-8773-44df-9b7a-ee2c7bd7d402">
+          <AttributeID>ID Projeto</AttributeID>
+          <Name>ID Projeto</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="60267e12-944e-449f-aa90-791d3a21afba">
+          <AttributeID>ID Gerenciamento</AttributeID>
+          <Name>ID Gerenciamento</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="a8e29955-bef0-42fd-b64d-88c83060c3f5">
+          <AttributeID>ID Dia</AttributeID>
+          <Name>ID Dia</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="b2059319-6ad4-4f59-9ff1-92e80fa59987">
+      <ID>Fato Completa - ID Cliente</ID>
+      <Name>Fato Completa - ID Cliente</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="6e322b72-20ef-46ca-8cb4-e0b76baee665">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="04e0aa78-89ef-40d7-9129-969b1ca73fb5">
+            <TableID>Fato_x0020_Completa</TableID>
+            <ColumnID>id_cliente</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="786261a1-a4b5-43c6-b8c4-20c3733b084d">
+      <ID>ID Atividade</ID>
+      <Name>ID Atividade</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="d5d1ab0e-b107-413f-b650-42d73fbfee48">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="6fa59b9e-f4d0-48a1-b948-c47b33fe23b4">
+            <TableID>Fato_x0020_Completa</TableID>
+            <ColumnID>id_atividade</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="0f177f2a-925c-406f-9b9a-a177d803338a">
+      <ID>ID Projeto</ID>
+      <Name>ID Projeto</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="995cb9c3-b0a8-4ce5-8328-5614dc0999de">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="95a7915f-2c73-47cd-a082-37a98ee9571d">
+            <TableID>Fato_x0020_Completa</TableID>
+            <ColumnID>id_projeto</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="bfc2e3a2-ca27-4483-945c-712c7ad02950">
+      <ID>ID Gerenciamento</ID>
+      <Name>ID Gerenciamento</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4dac0ffa-6c11-4f38-af29-97dd42a8866a">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="ed3853f1-3d09-4c96-8b82-25f9848a4456">
+            <TableID>Fato_x0020_Completa</TableID>
+            <ColumnID>id_gerenciamento</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="ce0c0eb0-63dc-4c5c-9ef8-8cf4aa46308d">
+      <ID>ID Dia</ID>
+      <Name>ID Dia</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="3b8f9a52-2a13-4ad4-908a-6bad3d15d0e9">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="951e8502-0804-49cc-af8e-8b5b58bbd632">
+            <TableID>Fato_x0020_Completa</TableID>
+            <ColumnID>id_dia</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

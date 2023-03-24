@@ -8,12 +8,32 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>Geral.cube</Name>
-      <FullPath>Geral.cube</FullPath>
+      <Name>GERENCIAMENTO.cube</Name>
+      <FullPath>GERENCIAMENTO.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>Geral.partitions</Name>
-          <FullPath>Geral.partitions</FullPath>
+          <Name>GERENCIAMENTO.partitions</Name>
+          <FullPath>GERENCIAMENTO.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>GERAL.cube</Name>
+      <FullPath>GERAL.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>GERAL.partitions</Name>
+          <FullPath>GERAL.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>GERAL COMPLETA.cube</Name>
+      <FullPath>GERAL COMPLETA.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>GERAL COMPLETA.partitions</Name>
+          <FullPath>GERAL COMPLETA.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
@@ -24,12 +44,12 @@
       <FullPath>Atividade.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Cliente.dim</Name>
-      <FullPath>Cliente.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>Gerenciamento.dim</Name>
       <FullPath>Gerenciamento.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Cliente.dim</Name>
+      <FullPath>Cliente.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Projeto.dim</Name>
@@ -38,6 +58,10 @@
     <ProjectItem>
       <Name>Tempo.dim</Name>
       <FullPath>Tempo.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Fato Completa.dim</Name>
+      <FullPath>Fato Completa.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>

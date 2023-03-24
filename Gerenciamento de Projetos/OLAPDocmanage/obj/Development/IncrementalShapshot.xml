@@ -19,64 +19,85 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>0sEocuXG5wDnA5olTYwxMePEwA0=23/03/2023 15:12:0823/03/2023 15:12:08</TimeStamp>
+        <TimeStamp>j0JyY6HppY6ZZ7Lv4Gd4sWjw/Ws=23/03/2023 20:36:1423/03/2023 20:36:14</TimeStamp>
         <ID>
           <String>DW DOCMANAGE</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>uBhGNFCg40nW/BlpVHN1mBJhJhw=23/03/2023 15:44:1423/03/2023 15:13:19</TimeStamp>
+        <TimeStamp>Osy+WI3dPCLDXbvRgIuHYyw4oMY=24/03/2023 09:45:5423/03/2023 20:36:51</TimeStamp>
         <ID>
           <String>DW DOCMANAGE</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>a4YxSDlvUnafjpTc2b9i+b2MEvM=23/03/2023 15:46:4323/03/2023 15:44:14</TimeStamp>
+        <TimeStamp>QeF1rmvZu+vCZxn1vjB7YNJxaig=23/03/2023 20:50:5023/03/2023 20:49:31</TimeStamp>
         <ID>
           <String>Atividade</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>dR1d0dIR45+OpCjbNfb2eCXM+Bk=23/03/2023 15:51:4423/03/2023 15:48:42</TimeStamp>
-        <ID>
-          <String>Cliente</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>7tbXyNEB9J7ivDRJ6h71jydY89E=23/03/2023 15:52:5223/03/2023 15:51:43</TimeStamp>
+        <TimeStamp>WeTy4yquEj6YN90PbuhxmCij3S0=23/03/2023 20:52:1123/03/2023 20:51:16</TimeStamp>
         <ID>
           <String>Gerenciamento</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>FBdW3rS3G2/nSzCrJ42jwZ7y6bY=23/03/2023 15:54:1023/03/2023 15:52:52</TimeStamp>
+        <TimeStamp>s+wHsghJUkE2hvPLKoAhiymCcmM=23/03/2023 20:54:5823/03/2023 20:52:11</TimeStamp>
+        <ID>
+          <String>Cliente</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>HDetmMylKr9+nPFg4ZjWwZCDA0M=23/03/2023 20:56:1823/03/2023 20:54:58</TimeStamp>
         <ID>
           <String>Projeto</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>weE48vHcOVOHgkHgFWiwMMMreJw=23/03/2023 16:11:0623/03/2023 15:54:10</TimeStamp>
+        <TimeStamp>oA1ccy7ZuwpxjRLeiHUg/jeRPfY=23/03/2023 21:03:0323/03/2023 20:56:18</TimeStamp>
         <ID>
           <String>Tempo</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>qSwC6QxT+ohWWQxfLTL9HBR4NEs=23/03/2023 17:19:0823/03/2023 16:59:40VBP1+MutLNTnKmBl6obliMkqpSc=23/03/2023 17:08:0323/03/2023 16:59:40</TimeStamp>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>rpHiCjl+mjbTV+6LuTnZ6Tusm0I=24/03/2023 09:45:5424/03/2023 09:45:54</TimeStamp>
         <ID>
-          <String>Geral</String>
+          <String>Fato Completa</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>rYyNSHZpfb+FE3Mj2TZOt52TuHc=23/03/2023 21:05:1723/03/2023 21:05:16TJcD7WR0x/7Qo9Xad8/zeE1XaeM=23/03/2023 21:05:1723/03/2023 21:05:16</TimeStamp>
+        <ID>
+          <String>GERENCIAMENTO</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>Kmh19CCJCf3gzkY9VswrjW6DzDA=24/03/2023 10:59:3023/03/2023 21:13:27rQcPGuheNV/N43lDDCPeJSljRRY=23/03/2023 21:13:2823/03/2023 21:13:27</TimeStamp>
+        <ID>
+          <String>GERAL</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>IIi5S+LHfAwXnvAAB1QGdSkNANo=24/03/2023 10:38:2724/03/2023 09:45:53ma0sXpQpPe5pjg1vbVZgVjurrmE=24/03/2023 09:45:5424/03/2023 09:45:53</TimeStamp>
+        <ID>
+          <String>DW DOCMANAGE</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>tXy7AMFnBwXFfhb9lZ6YRBTPzrE=23/03/2023 15:02:4823/03/2023 15:02:47</TimeStamp>
+      <TimeStamp>HkMuPoWlTVCZW9OEXXyrznufDts=23/03/2023 20:35:2023/03/2023 20:35:19</TimeStamp>
       <ID>
         <String>OLAPDocmanage</String>
       </ID>
@@ -85,5 +106,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2023-03-23T20:19:26.376667Z</LastDeployed>
+  <LastDeployed>2023-03-24T13:59:39.033333Z</LastDeployed>
 </DeploymentSnapshot>

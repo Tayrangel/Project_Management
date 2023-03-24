@@ -1,4 +1,4 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="aec2a0eb-f375-427b-ba5c-feaed294d393" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="d2969760-6b47-4d5a-83fd-a18e6c8c35dc" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Projeto</ID>
   <Name>Projeto</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3142" scrolltop="-7263" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="10266" y="16404" backcolor="2039583" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3142" scrolltop="-7951" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="10266" y="17780" backcolor="2039583" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="01000000900144420100065461686f6d61" />
             </font>
@@ -51,7 +51,7 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-      <Value>-7263</Value>
+      <Value>-7951</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
@@ -68,32 +68,32 @@
   </Annotations>
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="4523793f-ac37-4133-9d6a-3db2071bf6ce">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="bf970195-b4a0-4046-9ac1-e88d74382763">
     <DataSourceViewID>DW DOCMANAGE</DataSourceViewID>
   </Source>
-  <ErrorConfiguration dwd:design-time-name="585933f5-e882-449d-a2e1-f04c420727f7">
+  <ErrorConfiguration dwd:design-time-name="77ce2ceb-f267-424d-94f1-93377821bf02">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="50ffee64-9b1e-416a-a238-9f8bc820742c">
-      <ID>Id Projeto</ID>
-      <Name>Id Projeto</Name>
+    <Attribute dwd:design-time-name="480f2cde-d5ef-4ed9-9d69-a5662168e5f3">
+      <ID>ID Projeto</ID>
+      <Name>ID Projeto</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="509b95ba-c679-411a-8852-05869c7bd5b9">
+        <KeyColumn dwd:design-time-name="b628af35-d632-4107-955c-1bd63a3cecca">
           <DataType>WChar</DataType>
           <DataSize>50</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="6fefe8d3-1da1-4d1d-81aa-61d9dd226631">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="8d2e7206-f47d-4e50-803f-d92cc84abc69">
             <TableID>dbo_Dim_Projeto</TableID>
             <ColumnID>id_projeto</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="4f8ed30e-ad33-4bfc-9ae5-669cf7dfb77d">
+        <AttributeRelationship dwd:design-time-name="06135eeb-d38c-420b-84d0-63025fb4c7fe">
           <AttributeID>Projeto</AttributeID>
           <Name>Projeto</Name>
         </AttributeRelationship>
@@ -102,14 +102,14 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="0b7fd636-db4b-4f9e-8dec-4fb5a2f5dc93">
+    <Attribute dwd:design-time-name="8801eac3-6dca-49bd-a09a-706b8a5a5238">
       <ID>Projeto</ID>
       <Name>Projeto</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="bc2e8a55-e409-4e19-b852-70397da5a2a3">
+        <KeyColumn dwd:design-time-name="fba049e3-d207-42dc-aa1b-2606ff9e163a">
           <DataType>WChar</DataType>
           <DataSize>200</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="c83593ad-ed10-476d-9f81-fe001d826e4a">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="2a01eca8-ed26-45e1-b705-1855d2972fac">
             <TableID>dbo_Dim_Projeto</TableID>
             <ColumnID>desc_projeto</ColumnID>
           </Source>
@@ -121,14 +121,14 @@
     </Attribute>
   </Attributes>
   <Hierarchies>
-    <Hierarchy dwd:design-time-name="0849b855-e650-42cb-8e3a-79fd9b8540b3">
+    <Hierarchy dwd:design-time-name="0422b04e-2944-4d63-9d4f-d1921edab5ed">
       <ID>Hierarquia</ID>
       <Name>Hierarquia Projeto</Name>
       <Levels>
-        <Level dwd:design-time-name="7641bd71-0860-44a1-b8c2-d1674bfdf3cf">
-          <ID>Id Projeto</ID>
+        <Level dwd:design-time-name="b603a9ee-f79a-4d12-9c04-8bf5f34cf997">
+          <ID>ID Projeto</ID>
           <Name>Nível Projeto</Name>
-          <SourceAttributeID>Id Projeto</SourceAttributeID>
+          <SourceAttributeID>ID Projeto</SourceAttributeID>
         </Level>
       </Levels>
     </Hierarchy>

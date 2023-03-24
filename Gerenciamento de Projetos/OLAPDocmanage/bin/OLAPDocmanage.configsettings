@@ -15,10 +15,10 @@
         <ID>Atividade</ID>
       </Dimension>
       <Dimension>
-        <ID>Cliente</ID>
+        <ID>Gerenciamento</ID>
       </Dimension>
       <Dimension>
-        <ID>Gerenciamento</ID>
+        <ID>Cliente</ID>
       </Dimension>
       <Dimension>
         <ID>Projeto</ID>
@@ -26,10 +26,34 @@
       <Dimension>
         <ID>Tempo</ID>
       </Dimension>
+      <Dimension>
+        <ID>Fato Completa</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>
-        <ID>Geral</ID>
+        <ID>GERENCIAMENTO</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Fato001</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fato001</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+          <MeasureGroup>
+            <ID>Fato002</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fato002</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>GERAL</ID>
         <MeasureGroups>
           <MeasureGroup>
             <ID>Fato001</ID>
@@ -52,6 +76,19 @@
             <Partitions>
               <Partition>
                 <ID>Fato003</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>DW DOCMANAGE</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Fato Completa</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fato Completa</ID>
               </Partition>
             </Partitions>
           </MeasureGroup>

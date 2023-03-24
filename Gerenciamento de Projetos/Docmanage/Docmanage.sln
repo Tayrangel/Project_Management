@@ -7,7 +7,7 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Docmanage", "Docmanage.sqlp
 EndProject
 Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "CargaDocmanage", "..\CargaDocmanage\CargaDocmanage.dtproj", "{5709B4EF-5D2F-4E21-98A1-36405DDA2B4B}"
 EndProject
-Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "OLAPDocmanage", "..\OLAPDocmanage\OLAPDocmanage.dwproj", "{B8EF0611-0CE6-43B6-824F-B4856C0473CF}"
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "OLAPDocmanage", "..\OLAPDocmanage\OLAPDocmanage.dwproj", "{BA1E700D-D4B9-4A5D-909E-9A8BA94D09F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,15 +31,15 @@ Global
 		{5709B4EF-5D2F-4E21-98A1-36405DDA2B4B}.Development|Any CPU.Build.0 = Development
 		{5709B4EF-5D2F-4E21-98A1-36405DDA2B4B}.Release|Any CPU.ActiveCfg = Development
 		{5709B4EF-5D2F-4E21-98A1-36405DDA2B4B}.Release|Any CPU.Build.0 = Development
-		{B8EF0611-0CE6-43B6-824F-B4856C0473CF}.Debug|Any CPU.ActiveCfg = Development
-		{B8EF0611-0CE6-43B6-824F-B4856C0473CF}.Debug|Any CPU.Build.0 = Development
-		{B8EF0611-0CE6-43B6-824F-B4856C0473CF}.Debug|Any CPU.Deploy.0 = Development
-		{B8EF0611-0CE6-43B6-824F-B4856C0473CF}.Development|Any CPU.ActiveCfg = Development
-		{B8EF0611-0CE6-43B6-824F-B4856C0473CF}.Development|Any CPU.Build.0 = Development
-		{B8EF0611-0CE6-43B6-824F-B4856C0473CF}.Development|Any CPU.Deploy.0 = Development
-		{B8EF0611-0CE6-43B6-824F-B4856C0473CF}.Release|Any CPU.ActiveCfg = Development
-		{B8EF0611-0CE6-43B6-824F-B4856C0473CF}.Release|Any CPU.Build.0 = Development
-		{B8EF0611-0CE6-43B6-824F-B4856C0473CF}.Release|Any CPU.Deploy.0 = Development
+		{BA1E700D-D4B9-4A5D-909E-9A8BA94D09F3}.Debug|Any CPU.ActiveCfg = Development
+		{BA1E700D-D4B9-4A5D-909E-9A8BA94D09F3}.Debug|Any CPU.Build.0 = Development
+		{BA1E700D-D4B9-4A5D-909E-9A8BA94D09F3}.Debug|Any CPU.Deploy.0 = Development
+		{BA1E700D-D4B9-4A5D-909E-9A8BA94D09F3}.Development|Any CPU.ActiveCfg = Development
+		{BA1E700D-D4B9-4A5D-909E-9A8BA94D09F3}.Development|Any CPU.Build.0 = Development
+		{BA1E700D-D4B9-4A5D-909E-9A8BA94D09F3}.Development|Any CPU.Deploy.0 = Development
+		{BA1E700D-D4B9-4A5D-909E-9A8BA94D09F3}.Release|Any CPU.ActiveCfg = Development
+		{BA1E700D-D4B9-4A5D-909E-9A8BA94D09F3}.Release|Any CPU.Build.0 = Development
+		{BA1E700D-D4B9-4A5D-909E-9A8BA94D09F3}.Release|Any CPU.Deploy.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
