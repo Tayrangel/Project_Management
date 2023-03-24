@@ -138,7 +138,7 @@
     <p>Para isso, foram coletadas diversas fontes de dados, como o ClickUp, o ERP da empresa e obteve arquivos em formato CSV e planilhas de Excel. Após realizar os tratamentos necessários, desenvolveu um dashboard no Looker Studio, oferecendo uma visão completa e interativa do projeto. Com essa ferramenta, é possível tomar decisões mais assertivas e efetivas em relação ao gerenciamento de projetos.</p>
         <div>
             <h4>Status Report</h4>
-            <img align="center" alt="status clickup" src="/Arquivos/src/imagens/StatusReportDocmanage.jpeg">
+            <img align="center" alt="status clickup" src="/Arquivos/src/imagens/StatusReportDocmanage.jpg">
         </div>
     <p><b>01 de maio de 2023</b></p>
     <p>Durante a fase de execução do projeto, a gerente de projetos Tayhana da Techwise iniciou o processo de criação de um sistema de Business Intelligence (BI) para obter informações de diversas fontes de dados. Esse sistema permitirá que ela monitore e controle o projeto de forma mais eficiente, além de possibilitar a criação de um status report mais interativo.</p>
