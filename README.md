@@ -130,7 +130,7 @@
 </div>
 
 <div>
-    <h4>Fase de execução</h4>
+    <h4>Fase de execução, monitoramento e controle</h4>
     <p>A fase de execução é a terceira fase do ciclo de vida de um projeto de software, após a fase de planejamento. Durante esta fase, o trabalho planejado é executado, monitorado e controlado para garantir que o projeto esteja dentro do escopo, cronograma e orçamento definidos.</p>
     <blockquote> 
     <p><b>01 de maio de 2023</b></p>
@@ -140,5 +140,40 @@
             <h4>Status Report</h4>
             <img align="center" alt="status clickup" src="/Arquivos/src/imagens/StatusReportDocmanage.jpg">
         </div>
+    <p><b>11 de maio de 2023</b></p>
+    <p>João Silva estava bastante preocupado com o andamento do projeto de implementação do sistema de gerenciamento de documentos eletrônicos. Já havia quase um mês desde o início do projeto e ainda não havia visto nada concreto do sistema. Ele estava começando a duvidar se a Techwise conseguiria entregar o projeto dentro do prazo estipulado.</p>
+    <p>Mas a gerente de projetos Tayhana, com sua vasta experiência, sabia o quanto era difícil para os clientes lidar com essa fase inicial do projeto. Ela explicou ao João Silva que até a próxima semana, os protótipos de como ficará a parte visual do sistema serão mostrados. Enquanto isso, toda a estrutura que irá suportar as informações já está sendo desenvolvida e que a equipe está trabalhando duro para garantir que o projeto seja entregue dentro do prazo estipulado. </p>
+    <p>Tayhana deixou claro que o projeto estava sendo executado com dedicação e comprometimento por toda a equipe, e que eles estavam trabalhando incansavelmente para garantir a qualidade e a eficácia do sistema.</p>
+    <p><b>12 de maio de 2023</b></p>
+    <p>Durante a daily, a gerente de projetos Tayhana perguntou ao desenvolvedor front end se os protótipos estariam finalizados até o final do dia, já que a apresentação para o cliente seria marcada para a próxima semana. O desenvolvedor confirmou que finalizaria os protótipos antes do code review e que eles estavam ficando muito bons. Tayhana então sugeriu uma verificação conjunta dos protótipos com a equipe para garantir que estivessem de acordo com as expectativas do cliente. Após essa verificação, Tayhana entrou em contato com o cliente para agendar uma reunião de apresentação.</p>
+    <p><b>15 de maio de 2023</b></p>
+    <p>Na apresentação dos protótipos do sistema de gerenciamento de documentos eletrônicos, infelizmente João Silva não pôde comparecer por um imprevisto. Em seu lugar, a equipe da Techwise foi recebida por Maria Santos, que ficou maravilhada com a apresentação. Como João era o responsável pelo projeto, Maria solicitou que enviassem um e-mail para ele, para que pudesse avaliar e aprovar os protótipos apresentados. Agora, aguarda-se a resposta de João para dar continuidade ao desenvolvimento do projeto.</p>
+    <p><b>31 de maio de 2023</b></p>
+    <p>João Silva ficou muito satisfeito com o desenvolvimento dos protótipos e reconheceu o trabalho da equipe da Techwise. Algumas semanas depois, ele entrou em contato com Tayhana com várias ideias novas para o projeto. Tayhana, sabendo que estava em uma fase crucial do desenvolvimento do projeto, estrategicamente combinou com João de realizar o levantamento de requisitos para as novas funcionalidades em paralelo com a implementação da primeira versão do sistema conforme o combinado. Eles determinaram que a primeira versão seria entregue dentro do prazo acordado, e posteriormente, os novos recursos seriam implantados utilizando as horas de manutenção contratadas. Tayhana deixou claro que com isso, o status report mudaria para indicar as informações de manutenção e que a equipe da Techwise faria o possível para incluir as novas funcionalidades no sistema o mais breve possível. João concordou com a estratégia e agradeceu a Tayhana pela flexibilidade e pela abordagem proativa.</p>
+        <div>
+            <h4>Status Report Atualizado</h4>
+            <img align="center" alt="status clickup" src="/Arquivos/src/imagens/StatusReportDocmanage.jpg">
+        </div>
+    <p><b>01 de junho de 2023</b></p>
+    <p>A equipe Techwise estava trabalhando incansavelmente no desenvolvimento do sistema de gerenciamento de documentos, com o objetivo de entregar um produto final de qualidade e que atendesse às necessidades do cliente. Para garantir que o cliente estivesse atualizado com o andamento do projeto, foi decidido que a demonstração seria realizada em duas etapas.</p>
+    <p>Na primeira etapa, a equipe apresentou uma versão preliminar do sistema, que permitiu ao cliente visualizar a estrutura básica e algumas funcionalidades iniciais. Após essa apresentação, o cliente ficou muito satisfeito com o progresso e ansioso para ver o produto final.</p>
+    <p>A equipe Techwise trabalhou ainda mais duro e, após algumas semanas, a segunda etapa da demonstração foi realizada. Desta vez, o cliente pode ver como o desenvolvimento havia evoluído e ficou muito impressionado com a qualidade e a eficiência do sistema.</p>
+    <p>A demonstração em duas etapas permitiu que o cliente acompanhasse de perto o desenvolvimento do projeto e mantivesse suas expectativas em alta. A equipe Techwise também pôde receber feedback do cliente e fazer ajustes para garantir que o produto final atendesse às necessidades do cliente de maneira satisfatória.</p>
+    </blockquote>
+</div>
+
+<div>
+    <h4>Fase de encerramento</h4>
+    <p>Nessa fase, o projeto é finalizado, e todas as entregas são concluídas e entregues. É importante fazer uma avaliação do projeto para identificar o que funcionou bem e o que pode ser melhorado no futuro. O encerramento formal do projeto é realizado com a entrega do produto ou serviço e a liberação da equipe do projeto.</p>
+    <blockquote> 
+    <p><b>01 de setembro de 2023</b></p>
+    <p>Após a conclusão do projeto de implementação do sistema de gerenciamento de documentos, a equipe Techwise dedicou um período para treinar o time da Documentum e prestar todo o suporte técnico necessário para a implantação do sistema. Durante esse período, a equipe Techwise se mostrou disponível para solucionar todas as dúvidas e problemas que surgiram, e garantiu que os usuários estivessem confortáveis com a nova ferramenta.</p>
+    <p>Com a conclusão do treinamento e da implantação do sistema, o feedback do cliente foi extremamente positivo. A Documentum ficou muito satisfeita com o trabalho realizado pela equipe Techwise e com o resultado final do projeto. A empresa reconheceu que agora possuía um sistema muito mais eficiente e capaz de atender às suas necessidades, e que isso só foi possível graças ao trabalho da equipe Techwise.</p>
+    <p>Além disso, a Documentum viu que havia possibilidade de desenvolver novas funcionalidades no sistema e, com toda certeza, contrataria a Techwise para essas implementações. A empresa estava confiante de que a equipe Techwise tinha o conhecimento e a expertise necessários para continuar aprimorando o sistema e tornando-o cada vez mais eficiente e adequado às suas necessidades específicas.</p>
+    <p><b>04 de setembro 2023</b></p>
+    <p>Tayhana, a gerente de projetos da Techwise, sempre se preocupava com o desempenho da sua equipe e buscava maneiras de incentivar e reconhecer seus talentos. Durante um dos projetos, Tayhana percebeu que alguns integrantes da equipe estavam se destacando e demonstrando habilidades para enfrentar desafios maiores.</p>
+    <p>Com a crescente demanda pelos serviços da Techwise, a empresa estava com muitos projetos em andamento e Tayhana viu nisso uma oportunidade para sua equipe. Ela demonstrou para a diretoria que sua equipe era capaz de desenvolver projetos simultâneos sem comprometer a qualidade e o prazo de entrega.</p>
+    <p>Para provar seu ponto de vista, Tayhana utilizou os dashboards do projeto anterior para mostrar números impressionantes de desempenho e satisfação do cliente. Com base nisso, a diretoria da empresa decidiu confiar em Tayhana e em sua equipe, permitindo que assumissem mais projetos em paralelo.</p>
+    <p>Com o incentivo da gerente de projetos e o reconhecimento da diretoria, a equipe da Techwise se sentiu motivada a enfrentar novos desafios e aprimorar suas habilidades, sempre com o objetivo de entregar projetos de qualidade e superar as expectativas dos clientes.</p>
     </blockquote>
 </div>
