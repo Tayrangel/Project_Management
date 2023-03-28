@@ -5,9 +5,7 @@
 <p>Além disso, foram desenvolvidos arquivos em HTML e Bootstrap para melhorar o contexto do projeto apresentado.</p>
 <p>Em resumo, o repositório demonstra habilidades avançadas de gerenciamento de projetos e análise de dados, utilizando ferramentas poderosas como ClickUp e Looker Studio, além de ter arquivos em HTML e Bootstrap para melhorar a apresentação das informações. </p>
 <br>
-<p>Confira o projeto em:</p>
-<a href="https://github.com/Tayrangel/pm_automacao_processo_negocio/tree/main/Gerenciamento%20de%20Projetos">Gerenciamento de Projetos</a>
-<hr>
+<p>Confira o projeto em:</p> <a href="https://github.com/Tayrangel/pm_automacao_processo_negocio/tree/main/Gerenciamento%20de%20Projetos">Gerenciamento de Projetos</a>
 
 <div>
 <h3>Principais visualizações do projeto</h4>
