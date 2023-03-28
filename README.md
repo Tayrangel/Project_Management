@@ -22,4 +22,6 @@
     <h4>Status Report - Looker Studio</h4>
     <p>Dashboard inicial</p>
     <img align="center" alt="status report" src="/Arquivos/src/imagens/StatusReportDocmanage.jpg">
+    <p>Dashboard atualizado</p>
+    <img align="center" alt="status report" src="/Arquivos/src/imagens/StatusReportDocmanage2.jpg">
 </div>

@@ -148,7 +148,7 @@
     <p>João Silva ficou muito satisfeito com o desenvolvimento dos protótipos e reconheceu o trabalho da equipe da Techwise. Algumas semanas depois, ele entrou em contato com Tayhana com várias ideias novas para o projeto. Tayhana, sabendo que estava em uma fase crucial do desenvolvimento do projeto, estrategicamente combinou com João de realizar o levantamento de requisitos para as novas funcionalidades em paralelo com a implementação da primeira versão do sistema conforme o combinado. Eles determinaram que a primeira versão seria entregue dentro do prazo acordado, e posteriormente, os novos recursos seriam implantados utilizando as horas de manutenção contratadas. Tayhana deixou claro que com isso, o status report mudaria para indicar as informações de manutenção e que a equipe da Techwise faria o possível para incluir as novas funcionalidades no sistema o mais breve possível. João concordou com a estratégia e agradeceu a Tayhana pela flexibilidade e pela abordagem proativa.</p>
         <div>
             <h4>Status Report Atualizado</h4>
-            <img align="center" alt="status report" src="/Arquivos/src/imagens/StatusReportDocmanage.jpg">
+            <img align="center" alt="status report" src="/Arquivos/src/imagens/StatusReportDocmanage2.jpg">
         </div>
     <p><b>01 de junho de 2023</b></p>
     <p>A equipe Techwise estava trabalhando incansavelmente no desenvolvimento do sistema de gerenciamento de documentos, com o objetivo de entregar um produto final de qualidade e que atendesse às necessidades do cliente. Para garantir que o cliente estivesse atualizado com o andamento do projeto, foi decidido que a demonstração seria realizada em duas etapas.</p>
