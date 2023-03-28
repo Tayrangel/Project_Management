@@ -1,6 +1,6 @@
 <h2 align="center"> Project Management </h2>
-<h4 align="center">Automação de processo de negócio (BPA)</h4>
 <hr>
+<h4>Automação de processo de negócio (BPA)</h4>
 <p>O repositório em questão demonstra habilidades avançadas de gerenciamento de projetos utilizando duas ferramentas amplamente conhecidas no mercado: ClickUp e Looker Studio. Ambas são plataformas poderosas que podem ser usadas para otimizar o gerenciamento de projetos e dados, ajudando a equipe a alcançar seus objetivos de forma mais eficiente e eficaz.</p>
 <p>Além disso, foram desenvolvidos arquivos em HTML e Bootstrap para melhorar o contexto do projeto apresentado.</p>
 <p>Em resumo, o repositório demonstra habilidades avançadas de gerenciamento de projetos e análise de dados, utilizando ferramentas poderosas como ClickUp e Looker Studio, além de ter arquivos em HTML e Bootstrap para melhorar a apresentação das informações. </p>
